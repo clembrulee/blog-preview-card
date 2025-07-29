@@ -37,6 +37,9 @@ main {
 	margin-top:24px;
 }
 
+.card-content p:nth-of-type(3){
+   color:hsl(0, 0%, 42%)
+}
 .tag {
   background-color: hsl(47, 88%, 63%);
   color: hsl(0, 0%, 7%);
